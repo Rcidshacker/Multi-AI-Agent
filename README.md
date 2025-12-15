@@ -142,7 +142,7 @@ flutter run
 ## 📱 Screenshots
 
 ### Main Interface
-![App Interface](C:/Users/Ruchit/.gemini/antigravity/brain/91fe5d4d-7ea7-4ae0-9b42-02d87a3f5f78/uploaded_image_1765825864082.png)
+![App Interface](Screenshot 2025-12-15 221745.png)
 
 *Clean, modern UI with gradient backgrounds and smooth animations*
 
