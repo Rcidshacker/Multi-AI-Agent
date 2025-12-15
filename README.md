@@ -142,7 +142,11 @@ flutter run
 ## 📱 Screenshots
 
 ### Main Interface
+<<<<<<< HEAD
 ![App Interface](Screenshot 2025-12-15 221745.png)
+=======
+![App Interface](docs/screenshot.png)
+>>>>>>> fc65db5 (📸 Add screenshot and update README image path)
 
 *Clean, modern UI with gradient backgrounds and smooth animations*
 
