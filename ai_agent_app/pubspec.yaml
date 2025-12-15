@@ -1,0 +1,23 @@
+name: ai_agent_app
+description: A Flutter app for the Multi-Agent AI Blog Generator.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_animate: ^4.5.2
+  flutter_markdown_plus: ^1.0.5
+  google_fonts: ^6.3.3
+  http: ^1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
